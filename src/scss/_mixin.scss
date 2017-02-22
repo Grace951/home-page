@@ -1,0 +1,34 @@
+@mixin inline-block-grace($w: 120px){
+    width:$w;
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+}
+
+@mixin min-height-grace($h){
+    @include min-height($h);
+    height: auto !important;
+    height: $h;
+    min-height: $h;
+}
+
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+
+
+@mixin line-height($sizeValue: 1.6, $fsize:$fontsize-p){
+    line-height: ($sizeValue * $fsize);
+    line-height: $sizeValue + rem;
+}
+
+@mixin background-size-grace($w, $h){
+    @include background-size($w, $h);
+    // -ms-behavior: url('js/backgroundsize.min.htc');  /*ie*/
+}

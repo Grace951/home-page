@@ -1,0 +1,1341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"redux.png\tw:3440 h:3109"
+			],
+			[
+				"skill",
+				"skills/"
+			],
+			[
+				"egg",
+				"ecdesign.jpg"
+			],
+			[
+				"tra",
+				"target\tAttr"
+			],
+			[
+				"Git",
+				"Github"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ill",
+				"illustrator.png\tw:800 h:783"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"git",
+				"github.png\tw:2000 h:665"
+			],
+			[
+				"n",
+				"npm.png\tw:326 h:150"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"s",
+				"skills/"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"backgroundImage"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"cou",
+				"cursor"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"g",
+				"_galereya.scss"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"ar",
+				"article\tTag"
+			],
+			[
+				"pro",
+				"proto\tPrototype"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"i",
+				"images/"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"boot",
+				"bootstrap.scss"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"port",
+				"_portfolio_gp.scss"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"b",
+				"body\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 41969,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 32308,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.html",
+			"settings":
+			{
+				"buffer_size": 73831,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_portfolio_web.scss",
+			"settings":
+			{
+				"buffer_size": 2266,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_aboutme.scss",
+			"settings":
+			{
+				"buffer_size": 11823,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_timeline.scss",
+			"settings":
+			{
+				"buffer_size": 6888,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_reset.scss",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_variable.scss",
+			"settings":
+			{
+				"buffer_size": 2503,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_global.scss",
+			"settings":
+			{
+				"buffer_size": 4026,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xml/works.json",
+			"settings":
+			{
+				"buffer_size": 28329,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 6847,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_home.scss",
+			"settings":
+			{
+				"buffer_size": 1745,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/jquery.js",
+			"settings":
+			{
+				"buffer_size": 93106,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 316.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"inst p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pace",
+				"Package Control: Install Package"
+			],
+			[
+				"pacle",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 502.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/ChingChing/dev/home-page",
+		"/D/ChingChing/dev/home-page/scss"
+	],
+	"file_history":
+	[
+		"/D/ChingChing/dev/home-page/main.html",
+		"/D/Flycan/homesite_spped_ajax_ie7/scss/_aboutme.scss",
+		"/D/xampp/htdocs/scss/_aboutme.scss",
+		"/D/xampp/htdocs/js/main.js",
+		"/D/xampp/htdocs/js/main-dist.js",
+		"/D/xampp/htdocs/js/bootstrap.js",
+		"/D/xampp/htdocs/scss/bootstrap/_carousel.scss",
+		"/D/xampp/htdocs/js/bootstrap.min.js",
+		"/D/xampp/htdocs/js/jquery-1.11.3.min.js",
+		"/D/xampp/htdocs/js/bootstrap-dist.js",
+		"/D/Flycan/homesite_spped_ajax_ie7/main.html",
+		"/D/xampp/htdocs/scss/_timeline.scss",
+		"/D/xampp/htdocs/scss/_portfolio_ed.scss",
+		"/D/xampp/htdocs/scss/bootstrap.min.scss",
+		"/D/xampp/htdocs/xml/works.json",
+		"/D/xampp/htdocs/js/owl.carousel.min.js",
+		"/D/xampp/htdocs/xml/works.xml",
+		"/D/xampp/htdocs/test2.css",
+		"/D/xampp/htdocs/test1.css",
+		"/D/xampp/htdocs/main.html",
+		"/D/xampp/htdocs/scss/_mixin.scss",
+		"/D/xampp/htdocs/scss/main.scss",
+		"/D/xampp/htdocs/scss/_portfolio_gp.scss",
+		"/D/xampp/htdocs/scss/_menu.scss",
+		"/D/xampp/htdocs/scss/_variable.scss",
+		"/D/xampp/htdocs/scss/bootstrap/_grid.scss",
+		"/D/xampp/htdocs/scss/_home.scss",
+		"/D/xampp/htdocs/scss/bootstrap/_type.scss",
+		"/D/xampp/htdocs/scss/_footer.scss",
+		"/D/xampp/htdocs/scss/_global.scss",
+		"/D/xampp/htdocs/scss/_portfolio_web.scss",
+		"/D/xampp/htdocs/index.html",
+		"/D/xampp/htdocs/galereya-master/src/js/jquery.galereya.js",
+		"/D/Flycan/paints_0903/js/main.js",
+		"/D/Flycan/paints_0903/index.html",
+		"/D/Flycan/paints_0903/sass/_home.scss",
+		"/D/Flycan/paints_0903/sass/_global.scss",
+		"/D/Flycan/paints_0903/ab.html",
+		"/D/xampp/htdocs/main_bak.html",
+		"/D/xampp/htdocs/.sass-cache/32a20d8047009fac32543a3c5293c550635a4816/_global.scssc",
+		"/D/xampp/htdocs/scss/bootstrap/mixins/_grid.scss",
+		"/D/AU/形式修改/final/js/app.js",
+		"/D/AU/形式修改/final/scss/_header.scss",
+		"/D/AU/形式修改/final/index.html",
+		"/D/xampp/htdocs/scss/bootstrap/_variables.scss",
+		"/D/xampp/htdocs/vertical-timeline/vertical-timeline/js/main.js",
+		"/D/xampp/htdocs/vertical-timeline/vertical-timeline/index.html",
+		"/D/xampp/htdocs/vertical-timeline/vertical-timeline/partials/_layout.scss",
+		"/D/xampp/htdocs/vertical-timeline/vertical-timeline/partials/_mixins.scss",
+		"/D/xampp/htdocs/vertical-timeline/vertical-timeline/partials/_variables.scss",
+		"/D/Flycan/homesite/menu/css/menu.css",
+		"/D/xampp/htdocs/menu/css/menu.css",
+		"/D/xampp/htdocs/img/main.html",
+		"/D/xampp/htdocs/portfolio_Calendar1.html",
+		"/D/xampp/htdocs/galereya-master/src/css/jquery.galereya.css",
+		"/D/xampp/htdocs/galereya-master/src/js/jquery.galereya-ie.js",
+		"/D/xampp/htdocs/css/bootstrap-ie7fix.css",
+		"/D/xampp/htdocs/css/bootstrap-ie7.css",
+		"/D/xampp/htdocs/galereya-master/src/css/jquery.galereya.ie.css",
+		"/D/xampp/htdocs/css/ie7.css",
+		"/D/xampp/htdocs/scss/_galereya.scss",
+		"/D/xampp/htdocs/js/respond.min.js",
+		"/D/Flycan/Respond-master/src/respond.js",
+		"/D/RWD/homesite/index.html",
+		"/D/RWD/homesite_新一代設計展/index.html",
+		"/D/Flycan/homesite_speed_ajax/galereya-master/src/css/jquery.galereya.ie.css",
+		"/D/Flycan/homesite_speed_ajax/galereya-master/src/css/jquery.galereya.css",
+		"/D/Flycan/homesite_speed_ajax/scss/main.scss",
+		"/D/Flycan/homesite_speed_ajax/index.html",
+		"/D/Flycan/homesite_speed_ajax/scss/_galereya.scss",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-15 css-sprite/layout.css",
+		"/D/Flycan/Painting_manual/DW/sass/desktop-layout.scss",
+		"/D/Flycan/Painting_manual/DW/sass/mobile-layout.scss",
+		"/D/Flycan/homesite_speed_ajax/js/main.js",
+		"/D/Flycan/Painting_manual/DW/css/desktop-layout.css",
+		"/D/Flycan/homesite_speed_ajax/scss/_portfolio_gp.scss",
+		"/D/Flycan/homesite_speed/scss/_global.scss",
+		"/D/Flycan/homesite_speed_ajax/scss/_global.scss",
+		"/D/Flycan/homesite_speed_ajax/main.html",
+		"/D/Flycan/homesite_speed_ajax/xml/works.xml",
+		"/D/Flycan/homesite_speed_ajax/portfolio_Calendar1.html",
+		"/D/Flycan/homesite_speed_ajax/portfolio_book1.html",
+		"/D/Flycan/homesite_speed_ajax/js/jquery.prettyPhoto.js",
+		"/D/Flycan/homesite_speed_ajax/scss/_portfolio_ed.scss",
+		"/D/Flycan/homesite_speed_ajax/waitForImages-master/test/waitforimages.html",
+		"/D/Flycan/homesite_speed_ajax/css/bootstrap-ie7.css",
+		"/D/Flycan/homesite_speed_ajax/scss/_footer.scss",
+		"/D/Flycan/homesite_speed_ajax/scss/_menu.scss",
+		"/D/Flycan/homesite_speed_ajax/scss/_mixin.scss",
+		"/D/Flycan/homesite_speed_ajax/css/ie7.css",
+		"/D/Flycan/homesite_speed_ajax/scss/_home.scss",
+		"/D/Flycan/homesite_speed_ajax/scss/_aboutme.scss",
+		"/D/Flycan/homesite_speed/scss/main.scss",
+		"/D/Flycan/homesite_speed/scss/_home.scss",
+		"/D/Flycan/Painting_manual/DW/index.html",
+		"/D/Flycan/Painting_manual/DW/sass/_global.scss",
+		"/D/Flycan/homesite_speed_ajax/css/main.css",
+		"/D/Flycan/Painting_manual/DW/css/main.css",
+		"/D/Flycan/homesite_speed_ajax/js/jquery.waitforimages.js",
+		"/D/Flycan/homesite_speed_ajax/waitForImages-master/test/jquery.waitforimages_test.js",
+		"/D/Flycan/homesite_speed_ajax/waitForImages-master/libs/jquery-loader.js",
+		"/D/Flycan/homesite_speed_ajax/waitForImages-master/src/jquery.waitforimages.js",
+		"/D/Flycan/homesite_speed_ajax/scss/bootstrap.min.scss",
+		"/D/Flycan/homesite_speed_ajax/galereya-master/src/js/jquery.galereya.js",
+		"/D/Flycan/homesite_speed_ajax/scss/_prettyPhoto.scss",
+		"/D/Flycan/homesite_speed_ajax/portfolio_portfolio.html",
+		"/D/Flycan/homesite_speed_ajax/css/prettyPhoto.css",
+		"/D/Flycan/homesite_speed_ajax/scss/_bootstrap.scss",
+		"/D/Flycan/homesite_speed_ajax/portfolio/angel.html",
+		"/D/Flycan/homesite_speed_ajax/css/font-awesome.min.css",
+		"/D/Flycan/homesite_speed_ajax/menu/css/font-awesome.css",
+		"/D/RWD/homesite_performance/portfolio/boy.html",
+		"/D/RWD/homesite_performance/portfolio/events.html",
+		"/D/RWD/homesite_performance/portfolio/flowers.html",
+		"/D/RWD/homesite_performance/portfolio/people.html",
+		"/D/RWD/homesite_performance/portfolio/ebaby.html",
+		"/D/RWD/homesite_performance/portfolio/smallguy.html",
+		"/D/RWD/homesite_performance/portfolio/sketch.html",
+		"/D/RWD/homesite_performance/portfolio/bee.html",
+		"/D/RWD/homesite_performance/portfolio/ocean.html",
+		"/D/RWD/homesite_performance/portfolio/christmas.html",
+		"/D/RWD/homesite_performance/portfolio/angel.html",
+		"/D/RWD/homesite_performance/portfolio/letsread.html",
+		"/D/RWD/homesite_performance/portfolio/future1.html",
+		"/D/RWD/homesite_performance/portfolio/directions.html",
+		"/D/RWD/homesite_performance/portfolio/happylife.html",
+		"/D/RWD/homesite_performance/portfolio/tellstory.html",
+		"/D/RWD/homesite_performance/portfolio/young.html"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\js",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\js",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\vertical-timeline\\vertical-timeline",
+			"D:\\xampp\\htdocs\\timeline",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\menu",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\Flycan\\homesite_speed_ajax\\scss",
+			"D:\\Flycan\\homesite_speed\\scss",
+			"D:\\Flycan\\homesite_speed_ajax\\scss",
+			"D:\\RWD\\Painting\\DW\\sass\\bootstrap",
+			"D:\\RWD\\Painting\\DW",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".background",
+			"background",
+			"JavaScript: Understanding the Weird Parts",
+			"}\n",
+			"practice",
+			"experience",
+			"4.0.3",
+			"font",
+			"media",
+			"cd-timeline-block",
+			"cd-container",
+			"box",
+			"font",
+			"color1",
+			"擁抱",
+			"陪伴",
+			"jsond",
+			"carousel-indicators",
+			"document",
+			"a2",
+			"document",
+			"bootstrap",
+			"D:\\Flycan\\homesite_spped_ajax_ie7\\",
+			"carousel-slider",
+			"about-slider",
+			"#carousel-slider",
+			"carousel",
+			"carousel-inner",
+			"illustration2",
+			"ilustration2",
+			"ilustration",
+			"waitForImages",
+			"carousel-inner",
+			"carousel-indicators",
+			"carousel",
+			"carousel-indicators",
+			"carousel-slider",
+			"48",
+			";\n",
+			"cd-timeline-content",
+			"cd-timeline",
+			"cd-timeline-block",
+			"cd-timeline-content",
+			"font",
+			"history",
+			"carousel-inner",
+			"console.log",
+			"nextpre",
+			"poster3",
+			"768",
+			"767",
+			"window",
+			"#recent-works",
+			"se-pre-con",
+			".se-pre-con",
+			"append",
+			"grace",
+			"1",
+			"center_containter",
+			"bigimg",
+			"imgLoaded",
+			"loading",
+			"work-change",
+			"container",
+			"work-desc",
+			"detailinfo",
+			"container",
+			"work-change",
+			"back",
+			"nextpre",
+			"back",
+			"nextpre",
+			"back",
+			"back_small_screen",
+			"back",
+			"nextpre",
+			"prev",
+			"backtop",
+			"back",
+			"back_small_screen",
+			"back",
+			"window",
+			"window.width",
+			"bigimg",
+			"bigimage",
+			"waitForImages",
+			"a3-3",
+			"mywork",
+			"bigimg",
+			"loading3.gif",
+			"slideToggle",
+			"view_snap",
+			"click",
+			"})();\n",
+			"webdesign",
+			"grace_header_h",
+			"b",
+			"font",
+			"#f6f6f6",
+			"#eee",
+			"#efefef",
+			"container",
+			"footer",
+			"carousel-slider",
+			".cat-right",
+			".book-title",
+			"media-img",
+			"main-skill",
+			"h4",
+			" pull-left",
+			"media-img",
+			"family",
+			"font",
+			"before",
+			"S",
+			"main-skill",
+			"skill-bar",
+			";\n",
+			"middle",
+			"step",
+			"eclogo.png",
+			"cd-timeline-img",
+			"before",
+			"cd-timeline-img",
+			"cd-timeline-content",
+			"media",
+			"-30",
+			"cd-timeline-img"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h3",
+			"",
+			"XS",
+			"ecdesign.jpg",
+			"cd-red",
+			"cd-blue",
+			"cd-orange",
+			"$timeline_bg",
+			"timeline_bg",
+			"container-fluid",
+			"row-fluid",
+			"/galereya-master/src/img",
+			"div",
+			"",
+			"fa fa-tags",
+			"fa-coffee",
+			"images/portfolio/full",
+			"2015Calendar",
+			"2015calendar",
+			"calendar",
+			"images/portfolio/full"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2005,
+								2005
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17662,
+								17662
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63851,
+								63851
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scss/_portfolio_web.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scss/_aboutme.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1304,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/_timeline.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3131,
+								3131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3213.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scss/_reset.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scss/_variable.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1163,
+								1170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scss/_global.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "xml/works.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23563,
+								23563
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20640.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "scss/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "scss/_home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 203.0
+	},
+	"output.find_results":
+	{
+		"height": 525.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\RWD\\123.py.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gridb",
+				"gridb"
+			],
+			[
+				"img",
+				"imgholder"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

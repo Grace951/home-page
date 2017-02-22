@@ -1,0 +1,121 @@
+#webdesign{
+  margin: 0;
+  padding: 0;
+  .webtech-logo{
+    height: 50px;
+  }
+  .bookshelf{
+    >.row{
+      border-bottom: 3px solid #e2e2e2;
+    }
+  }
+  .container{
+    width: 100%;
+    max-width: none;
+  }
+  .tech_logo{
+    border-left: 1px solid #e2e2e2;
+  }
+  .web, .web_brief, .web_logo img{
+    display: block;
+    margin: 0 auto;
+  }
+  .web_desc{
+    .view_snap{
+      max-width: 140px;
+      margin: 0 auto;
+      background-color: $color4;
+      color: #fff;
+      text-align: center;
+      font-size: 16px;
+      line-height: 36px;
+      height: 36px;
+      @include border-radius(18px);
+      cursor: pointer;
+    }
+  }
+  .web_link{
+    width: 100%;
+    a{
+      float: left;
+    }
+    h2{
+      float: right;
+      cursor: pointer;
+      height: 50px;
+      a {
+        display: block;
+        height: 50px;
+        width: 50px;
+        color: #fff;
+        background-color: $color3;
+        font-size: 20px;
+        line-height: 50px;
+        text-align: center;
+        vertical-align: middle;
+        @include border-radius(50%);
+        display: block;
+        text-align: center;
+        :hover{
+          color:  $color4;
+        }
+      }
+    }
+    h1{
+      float: left;
+      display: block;
+      position: relative;
+      width: 520px - 150px;
+      top: 10px;
+      left: 20px;
+      font-family: 'Rajdhani',  "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
+      font-weight: normal;
+      font-size: 45px;
+      line-height: 45px;
+    }
+    @include respond-to(xs){
+      padding: 0;
+      a, h1, h2{
+        width: 100%;
+        float: none;
+        margin: 10px 0 0 0;
+        padding: 0;
+        display: block;
+        text-align: center;
+        a, img{
+          margin: 0 auto;
+          display: block;
+        }
+      }
+      h1{
+        left: 0;
+      }
+    }
+  }
+  .web_brief{
+    max-width: 800px;
+    padding: 80px 0;
+    .center{
+      text-align: center;
+      float: left;
+    }
+    .web_logo{
+      margin: 0 auto;
+      display: block;
+      // height: 60px;
+      max-width: 360px;
+      overflow: hidden;
+    }
+    ul li {
+      float: left;
+    }
+    p{
+      padding: 20px 0;
+    }
+  }
+  .web_snap{
+    //border: 1px solid #999;
+    padding: 0 0 20px 0;
+    display: none;
+  }
+}

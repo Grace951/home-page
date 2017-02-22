@@ -1,0 +1,110 @@
+#editorial{
+    //background:url(../images/book-bg2.jpg) no-repeat bottom;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    @include respond-to(xs) {
+        margin-top:80px;
+    }
+    a:hover, a:focus {
+      color: #000;
+    }
+
+    a{
+      color: #9f9f9f;
+    }
+
+}
+
+#edit-title{
+    @include respond-to(xs) {
+        margin-top:-90px;
+    }
+}
+
+.book-title{
+    background:#F90;
+    color:#fff;
+    width:100%;
+    text-align:center;
+}
+
+.bookremind{
+    position:absolute;
+    top:50%;
+    text-align:center;
+    font-size:14px;
+    height: 30px;
+    vertical-align: middle;
+    line-height: 30px;
+    margin-top: -15px;
+    font-family: 'Open Sans', sans-serif, 'Arial', "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
+    color:#000;
+    @include respond-to(xs){
+        top:15px;
+    }
+}
+
+
+.note{
+    position:relative;
+    top: 20px;
+    left: 50%;
+    text-align:left;
+    font-size:14px;
+    width: 120px;
+    height: 700px;
+    line-height: 26px;
+    margin-left: 280px;
+    font-family: 'Open Sans', sans-serif, 'Arial', "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
+    color:#000;
+    @include respond-to(xs){
+        display: none;
+    }
+    @include respond-to(sm){
+        width: 80px;
+    }
+}
+.book {
+    margin: 20px auto;
+    @include box-shadow(3px 3px 8px rgba(0, 0, 0, 0.5));
+}
+
+.bookshelf{
+//    border: solid thin #eee;
+    background: $timeline_bg;
+    @include respond-to(xs) {
+        padding-left:1em;
+        padding-top:0px;
+        float:right;
+    }
+    margin-bottom: 0;
+    p{
+        padding-top:15px;
+    }
+}
+
+.books{
+    margin: 20px auto;
+}
+
+img.page {
+    float:left;
+    max-height:100%;
+    @include respond-to(lg) {  width: 250px;   }
+    @include respond-to(md) {  width: 230px;   }
+    @include respond-to(sm) {  width: 230px;   }
+}
+
+.page, .bookdesc {
+    @include respond-to(xs) {    float:right;}
+}
+
+.bookdesc{
+     @include respond-to(xs) {    float:right;}
+}
+
+.calendar{
+    margin: 0 auto;
+    float:left;
+    max-height:100%;
+}

@@ -1,0 +1,43 @@
+{
+  "name": "home-page",
+  "version": "1.0.0",
+  "description": "* Portfolio Home Page\r * Bootstrap + SASS \r * RWD (Responsive Web Design)\r * Pinterest Like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grace951/home-page.git"
+  },
+  "author": "Ching-Ching Yeh <learningg@gmail.com> (https://github.com/Grace951)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grace951/home-page/issues"
+  },
+  "homepage": "https://github.com/Grace951/home-page#readme",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "bourbon": "^4.3.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1"
+  }
+}

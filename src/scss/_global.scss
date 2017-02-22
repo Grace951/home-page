@@ -1,0 +1,303 @@
+
+
+@import 'compass';
+//@import "rgbapng";
+@import 'variable';
+@import 'mixin';
+@import 'reset';
+
+article{
+  padding-top: $nav-height - 17px;
+  @include respond-to(xs) {
+    padding-top: $nav-xs-height - 17px;
+  }
+  padding-bottom: $footer-height; 
+}
+
+body, p {
+  font-family: #{$font-p};
+  font-size: $fontsize-p;
+  line-height: 2rem;
+}
+
+body {
+  background: $bg;
+  color:#4e4e4e;
+}
+
+
+section{
+  padding: 30px 0;
+}
+
+p {
+  color:$text-color;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  font-family: #{$font-title};
+  color:$text-color;
+}
+
+h1{
+  font-size: 36px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+h3{
+  font-size: 16px;
+  color: #787878;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+h4{
+  font-size: 16px;
+}
+
+h5 {
+    line-height:24px;
+}
+
+hr {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #fff;
+}
+
+
+a {
+  color: #37bde8;
+  @include transition(all 300ms){}
+  &:hover, &:focus{
+    color: #111;
+    text-decoration: none;
+    outline: none;
+  }
+
+}
+
+
+a:hover, a:focus {
+  color: #d43133;
+}
+
+hr {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #fff;
+}
+
+.galleryherepls{
+  display: none;
+}
+
+.se-pre-con {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url(../images/Preloader_8.gif) center no-repeat #fff;
+}
+
+.step{
+  border-left: 7px solid #F90;
+  padding-left:10px;
+}
+
+.cat-right{
+  border-right: 10px solid #F90;
+  padding-right:5px;
+  font-size:24px;
+  color:#000;
+  font-weight:normal;
+}
+
+.cat-left{
+  border-left: 10px solid #F90;
+  padding-left:5px;
+  font-size:24px;
+  color:#000;
+}
+
+.step-green{
+  border-left: 7px solid #6F6;
+  margin-left: -30px;
+  padding-left:10px;
+}
+
+
+
+.work-title{
+  margin-bottom:20px;
+}
+.bigimgdesc {
+  border:solid 1px #ccc;
+  margin-bottom:30px;
+  padding:13px;
+}
+
+.bigimg {
+  margin-top:-35px;
+  padding:15px;
+  margin:0 auto;
+  float: none;
+  //background:#FFF;
+ // @include box-shadow(0 3px 8px rgba(0, 0, 0, 0.125));
+  @include respond-to(xs) {
+    margin-top:0px;
+  }
+}
+
+.web_loading{
+  background: url(../images/ajax-loader.gif) center 250px no-repeat;
+  background-size: 35px 35px;
+  display:inline-block;
+  width: 100%;
+  img{
+ //   position: absolute;
+    top: 0;
+    max-width: 100%;
+    max-height:100%;
+    opacity: 0;
+  }
+}
+
+.loading{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: url(../images/ajax-loader.gif) center 250px no-repeat;
+  background-size: 35px 35px;
+  display:inline-block;
+  width: 100%;
+  max-width: 100%;
+  max-height:100%;
+  img{
+ //   position: absolute;
+    top: 0;
+    max-width: 100%;
+    max-height:100%;
+    opacity: 0;
+  }
+  .loaded{
+    background: none #fff;
+    width:auto;
+    height:auto;
+  }
+}
+
+
+#detailinfo{
+ @include respond-to(xs) {
+    margin-top:-0px;
+ }
+}
+
+
+.detailBG{
+  background:$timeline_bg;
+}
+
+.center_containter {
+  text-align: center;
+}
+
+.nextpre {
+  position: static;
+  max-width: 80px;
+  height: 35px;
+  float: right;
+  i{
+    color: #999;
+    display: block;
+    margin-right:5px;
+    float: right;
+    width: 32px;
+    height:32px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 24px;
+    border: 1px solid #999;
+    //border-radius:3px;
+  }
+}
+
+.container{
+  max-width: 1440px;
+  width: 100%;
+  ul {
+    float: right;
+  }
+}
+  @include respond-to(sm){
+    .container{
+      margin: 0;
+      width: 100%;
+    }
+  }
+  @include respond-to(xs){
+    .container{
+      margin: 0;
+      width: 100%;
+    }
+  }
+
+.backtop{
+  background:#fafafa;
+  float: right;
+  //margin-left:5px;
+  width: 100%;
+  height: 100%;
+   bottom: 0;
+  text-align:center;
+  padding:3px 0px 3px 0px;
+  //border-radius:3px;
+  border: 1px solid #999;
+}
+
+.back{
+  position: static;
+  margin-bottom: 5px;
+  margin-right:5px;
+  width: 60px;
+  height: 30px;
+  float: right;
+}
+
+.back a{
+  width: 100%;
+  display:block;
+  float:right;
+  color:#333;
+  text-align:center;
+}
+
+
+#back_small_screen{
+ @include respond-to(lg) {
+    display:none;
+    float:none;
+  }
+
+   @include respond-to(md) {
+    display:none;
+    float:none;
+  }
+}
+

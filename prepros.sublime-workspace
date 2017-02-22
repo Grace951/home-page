@@ -1,0 +1,818 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"d",
+				"dinner.jpg	w:840 h:485"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wi",
+				"width	.width()"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"pis",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"p",
+				"painter/"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"i",
+				"images/"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"boot",
+				"bootstrap.scss"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"port",
+				"_portfolio_gp.scss"
+			],
+			[
+				"dis",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"inst p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pace",
+				"Package Control: Install Package"
+			],
+			[
+				"pacle",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/js/detail_main.js",
+		"/D/xampp/htdocs/fa.html",
+		"/D/xampp/htdocs/fs/css/custom.css",
+		"/D/xampp/htdocs/js/loadImg.js",
+		"/D/xampp/htdocs/ab.html",
+		"/D/xampp/htdocs/fs/css/style.css",
+		"/D/xampp/htdocs/fs/css/demo.css",
+		"/D/xampp/htdocs/css/main.css",
+		"/D/xampp/htdocs/sass/_home.scss",
+		"/D/xampp/htdocs/sass/desktop-layout.scss",
+		"/D/xampp/htdocs/sass/_variable.scss",
+		"/D/xampp/htdocs/sass/mobile-layout.scss",
+		"/D/xampp/htdocs/index.html",
+		"/D/xampp/htdocs/a.html",
+		"/D/xampp/htdocs/re.html",
+		"/D/xampp/htdocs/css/desktop-layout.css",
+		"/D/Design/jqueryWindows/index.html",
+		"/D/xampp/htdocs/sass/_global.scss",
+		"/D/xampp/htdocs/im.html",
+		"/D/夏季插畫班/SW/CC2015/CC2015_2.txt",
+		"/D/xampp/htdocs/jquery-mousewheel-master/test/index.html",
+		"/D/xampp/htdocs/sass/_slick.scss",
+		"/D/xampp/htdocs/Windy/index3.html",
+		"/D/paints/Windy/Windy/index.html",
+		"/D/xampp/htdocs/sass/_detail.scss",
+		"/D/xampp/htdocs/index_bak.html",
+		"/D/xampp/htdocs/css/ie8.css",
+		"/D/xampp/htdocs/fs/js/jquery.ba-cond.min.js",
+		"/D/xampp/htdocs/fs/js/jquery.slitslider.js",
+		"/D/xampp/htdocs/.htaccess",
+		"/D/AU/形式修改/final/css/ie8.css",
+		"/D/xampp/htdocs/FullscreenSlitSlider/js/jquery.slitslider.js",
+		"/D/xampp/htdocs/gridder-master/scss/jquery.gridder.scss",
+		"/D/xampp/htdocs/gridder-master/src/jquery.gridder.js",
+		"/D/Flycan/Painting_manual/DW/FullscreenSlitSlider/index.html",
+		"/D/xampp/htdocs/js/main.js",
+		"/D/Flycan/Painting_manual/DW/index.html",
+		"/D/xampp/htdocs/images/svg/banking2.svg",
+		"/D/Flycan/Painting_manual/svg/banking2.svg",
+		"/D/xampp/htdocs/main.js",
+		"/D/xampp/htdocs/index.sublime-workspace",
+		"/D/xampp/htdocs/config.rb",
+		"/D/xampp/htdocs/test.html",
+		"/D/xampp/htdocs/robot.txt",
+		"/D/xampp/htdocs/prepros.cfg",
+		"/D/xampp/htdocs/index_old.html",
+		"/D/xampp/htdocs/google46ce51bd95fe4aad.html",
+		"/D/Flycan/Painting_manual/DW/slick/slick.css",
+		"/D/Flycan/Painting_manual/DW/css/mobile-layout.css",
+		"/D/Flycan/Painting_manual/DW/css/ie7.css",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-03 RWD-IE8-fix/main.css",
+		"/D/Flycan/Painting_manual/DW/sass/_slick-theme.scss",
+		"/D/Flycan/Painting_manual/DW/js/main.js",
+		"/D/Flycan/Painting_manual/DW/sass/_variable.scss",
+		"/D/Flycan/Painting_manual/DW/sass/_global.scss",
+		"/D/Flycan/Painting_manual/DW/gridder-master/scss/jquery.gridder.scss",
+		"/D/Flycan/Painting_manual/DW/gridder-master/src/jquery.gridder.js",
+		"/D/Flycan/Painting_manual/DW/sass/mobile-layout.scss",
+		"/D/Flycan/Painting_manual/DW/sass/desktop-layout.scss",
+		"/D/xampp/htdocs/scss/_home.scss",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-03 RWD-IE8-fix/index-ok.html",
+		"/D/Flycan/Painting_manual/DW/.sass-cache/012746a87d1df80cbc7e830d06658f32efdea041/_slick-theme.scssc",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-03 RWD-IE8-fix/index.html",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-02 RWD/index.html",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/1-04-2 HTML5-IE8-fix/index.html",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-03 RWD-IE8-fix/flycan.js",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-02 RWD/main.css",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/2-02 RWD/flycan.js",
+		"/D/WebDesign/SW/Sublime Text Build 3065 x64/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/D/RWD/Painting/DW/js/main.js",
+		"/D/WebDesign/SW/Sublime Text Build 3065 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Flycan/Painting_manual/DW/sass/_reset.scss",
+		"/D/Flycan/Painting_manual/DW/index_bak.html",
+		"/D/Flycan/Painting_manual/DW/sass/_slick.scss",
+		"/D/Flycan/Painting_manual/DW/sass/_mixin.scss",
+		"/D/RWD/homesite_performance/index.html",
+		"/D/Flycan/Painting_manual/DW/index_old.html",
+		"/D/Flycan/Painting_manual/DW/sass/_home.scss",
+		"/D/RWD/Painting/DW/sass/_global.scss",
+		"/D/Flycan/Painting_manual/DW/css/desktop-layout.css",
+		"/D/Flycan/Painting_manual/DW/sass/font-awesome-4.3.0/scss/_variables.scss",
+		"/D/WebDesign/SW/Sublime Text Build 3065 x64/Data/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/D/Flycan/Painting_manual/DW/css/main.css",
+		"/D/Flycan/RWD/0507/1/layout.css",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/1-09 Mobile-Layout-01/layout.css",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/1-07 box-sizing/layout.css",
+		"/D/Flycan/RWD/Responsive_Web_Design_2015/1-01 viewport/index.html",
+		"/D/RWD/Painting/DW/index.html",
+		"/D/RWD/Painting/DW/sass/bootstrap/_navbar.scss",
+		"/D/RWD/Painting/DW/sass/bootstrap/_variables.scss",
+		"/D/RWD/Painting/DW/sass/_variable.scss",
+		"/D/RWD/Painting/DW/sass/main.sass",
+		"/D/RWD/Painting/DW/sass/_footers.scss",
+		"/D/RWD/Painting/DW/sass/_home.scss",
+		"/D/RWD/Painting/DW/sass/_mixin.sass",
+		"/D/RWD/Painting/DW/css/ie7.css",
+		"/D/RWD/Painting/DW/index2.html",
+		"/D/RWD/Painting/DW/test.html",
+		"/D/RWD/Painting/DW/css/main.css",
+		"/D/RWD/Painting/DW/css/bootstrap-ie7.css",
+		"/D/RWD/homesite_performance/scss/_variable.scss",
+		"/D/RWD/Painting/DW/slick/slick.css",
+		"/D/RWD/bootstrap/bootstrap-sass-3.3.4/assets/stylesheets/bootstrap/_navs.scss",
+		"/D/RWD/Painting/DW/sass/variable.sass",
+		"/D/RWD/Painting/DW/scss/main.scss",
+		"/D/RWD/homesite_performance/js/jquery.js",
+		"/D/RWD/homesite_performance/css/main.css",
+		"/D/RWD/homesite_performance/scss/_global.scss",
+		"/D/RWD/homesite_performance/scss/_portfolio_ed.scss",
+		"/D/RWD/homesite_performance/scss/_aboutme.scss",
+		"/D/RWD/homesite_performance/portfolio_Calendar1.html",
+		"/D/RWD/homesite_performance/portfolio_portfolio.html",
+		"/D/RWD/homesite_performance/portfolio_ed.html",
+		"/D/RWD/homesite_performance/portfolio_ed_old.html",
+		"/D/RWD/homesite_performance/about-me.html",
+		"/D/主日學/主日學主日/奉獻歌.pps",
+		"/D/RWD/JQuery/邁向JQuery達人的階梯/卿卿練習/Chapter02/all/js/main.js",
+		"/D/RWD/homesite_performance/galereya-master/src/js/jquery.galereya.js",
+		"/D/RWD/homesite_performance/portfolio_gp.html",
+		"/D/RWD/homesite_performance/portfolio_book1.html",
+		"/D/RWD/homesite_performance/scss/_portfolio_web.scss",
+		"/D/RWD/homesite_performance/index_old.html",
+		"/D/RWD/homesite_performance/menu/css/menu.css",
+		"/D/RWD/homesite_performance/scss/_home.scss",
+		"/D/RWD/homesite_performance/scss/_footer.scss",
+		"/D/RWD/homesite_performance/scss/_portfolio_gp.scss",
+		"/D/RWD/homesite_performance/galereya-master/dist/css/jquery.galereya.css",
+		"/D/RWD/homesite_performance/galereya-master/src/css/jquery.galereya.css"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\sass",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\sass",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\sass",
+			"D:\\xampp\\htdocs\\",
+			"D:\\xampp\\htdocs\\sass",
+			"D:\\xampp\\htdocs\\scss",
+			"D:\\xampp\\htdocs\\fs",
+			"D:\\xampp\\htdocs\\sass",
+			"<current file>,D:\\xampp\\htdocs\\fs",
+			"",
+			"D:\\RWD\\Painting\\DW\\sass\\bootstrap",
+			"D:\\RWD\\Painting\\DW",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"each",
+			"rwd",
+			"#slider",
+			"#slider2",
+			"#slider",
+			"#slider1",
+			"main",
+			"before",
+			"painterSlide",
+			"re_rwd",
+			"dinner",
+			"border-radi",
+			"display",
+			"border-ra",
+			"border",
+			"@include",
+			"radius",
+			"desc",
+			"desc ",
+			"desc",
+			"sl-slide-inner",
+			"mobile-layout.css",
+			"mobile",
+			"paint",
+			"paints",
+			"40px 20px 20px 40px",
+			"desc",
+			"note",
+			"desc",
+			"gom",
+			"t-right",
+			"gom",
+			"t-right",
+			"gom",
+			"desc",
+			"$desc",
+			"rwd",
+			"resize",
+			"xs",
+			"re-review",
+			"go",
+			"xs",
+			"go",
+			"review",
+			"article",
+			"background-size",
+			"contian",
+			"catian",
+			"function toNumbers(d){var e=[];d.repla",
+			"d-article",
+			"article",
+			"url",
+			"preloadImages",
+			"brief-top",
+			"#a9b64e",
+			"hover",
+			"60px",
+			"this",
+			"top-nav",
+			"/images/paint/monalisa.jpg",
+			"painterSlide",
+			"$desc",
+			"fade",
+			"$wimg",
+			"fadeIn",
+			"slideDown",
+			"gom",
+			"goem",
+			"imgi",
+			"updateSlide",
+			"alert",
+			"s",
+			"getImageWidth",
+			"/images",
+			"images/paint/dinner",
+			"imgi",
+			"resize",
+			"width",
+			"nav_bg",
+			"circle",
+			"\n  ",
+			"re",
+			"im-review",
+			"im-",
+			"im-review",
+			"review",
+			"$tumb",
+			"p-tumb",
+			"desc",
+			"compress",
+			"desc",
+			"l-shift",
+			"2e2e2e",
+			"i.note",
+			"show",
+			"compress",
+			"comp",
+			"0px",
+			"l-shift",
+			"desc",
+			"l-shift",
+			"nav#top-nav{",
+			"background: #000;",
+			".demo-1 .bg-2 .sl-slide-inner, .demo-1 .bg-2 .sl-content-slice",
+			"active",
+			"masterpiece",
+			"- 5",
+			"d-article",
+			"active",
+			"ctive",
+			"myNavbar",
+			"explore",
+			"min-height",
+			"to-think",
+			"doubt",
+			"slider",
+			"main-slider",
+			"think",
+			"period",
+			"logo",
+			"logo\\",
+			"xs",
+			"go",
+			"gom",
+			"slider5",
+			"slider2",
+			"30",
+			"paints-wrap"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"detail_main",
+			"#428bca",
+			"fadeIn",
+			"w",
+			"images",
+			"w",
+			"images",
+			"desc show",
+			"",
+			"slider4",
+			"slider5",
+			"$com",
+			".png",
+			"",
+			"#main-top",
+			"#index-top",
+			"index-top",
+			"",
+			".png",
+			"png",
+			"fa-paint-brush",
+			"right-top",
+			"$color6",
+			"$color5",
+			"fa fa-tags",
+			"fa-coffee",
+			"images/portfolio/full",
+			"2015Calendar",
+			"2015calendar",
+			"calendar",
+			"images/portfolio/full"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 51.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 215.0
+	},
+	"pinned_build_system": "",
+	"project": "prepros.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\RWD\\123.py.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gridb",
+				"gridb"
+			],
+			[
+				"img",
+				"imgholder"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

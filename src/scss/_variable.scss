@@ -1,0 +1,104 @@
+$gsc-color: #3b98c5;
+$bg: white;
+$footer-color: #2e2e2e;
+//$font-p: "Open Sans", sans-serif, "新細明體";
+$font-p: "Open Sans", sans-serif, "Arial", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
+$font-title: "Open Sans", sans-serif, "Arial", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
+$fontsize-p: 14px;
+$text-color: black;
+
+$primary-color2: #000;
+$nav-height: 148px;
+$hs-nav-height: 90px;
+$footer-height: 90px;
+
+$nav-xs-height: 40px;
+$navoffset: 70px;
+
+$break-xxs: 320px;
+$break-xs: 767px;
+$break-smmd: 991px;
+$break-lg: 1440px;
+
+$navoffset: 100px;
+$nav-xs-height: 50px;
+$slidermtop: $navoffset + $nav-xs-height + 3px;
+
+$navbar-inverse-bg:                         #3b98c5 !default;
+$navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
+$nav-width:130px;
+$little-title-w: 1000px;
+$little-title-w-sm: 700px;
+$little-title-w-md: 850px;
+
+$color1: #2d7da4;
+$color2: #6aa42f;
+$color3: #ffcc33;
+$color4: #db3615;
+
+// timeline
+$main-text: #7f8c97; // main text
+$link: #acb7c0; // anchor tags
+$timeline_bg: #F5F5F4; // body background color
+
+$color-1: #1169B2; // blue dark
+$color-2: #db3615; // red
+$color-3: #ffffff; // white
+$color-4: #6AA42F; // green
+$color-5: #f0ca45; // yellow
+$color-6: #E6AC4C; // orange
+$color-7: #943B07;  //brown
+// fonts
+
+$primary-font: 'Droid Serif', serif;
+$secondary-font: 'Open Sans', sans-serif;
+
+
+@mixin respond-to($media) {
+  @if $media == xs {
+    @media only screen and (max-width: $break-xs) { @content; }
+  }
+  @else if $media == sm {
+    @media only screen and (min-width: $break-xs + 1) and (max-width: $break-smmd - 1) { @content; }
+  }
+  @else if $media == md {
+    @media only screen and (min-width: $break-smmd + 1) and (max-width: $break-lg - 1) { @content; }
+  }
+  @else if $media == lg {
+    @media only screen and (min-width: $break-lg) { @content; }
+  }
+}
+
+
+@mixin media($width) {
+  @media only screen and (max-width: $width) {
+    @content;
+  }
+}
+
+
+// timeline
+
+$S:     320px;
+$M:     768px;
+$L:     1170px;
+
+// media queries
+
+@mixin MQ($canvas) {
+  @if $canvas == XS {
+    @media only screen and (max-width: $S) { @content; }
+  }
+  @else if $canvas == S {
+   @media only screen and (min-width: $S) { @content; }
+  }
+  @else if $canvas == M {
+   @media only screen and (min-width: $M) { @content; }
+  }
+  @else if $canvas == L {
+   @media only screen and (min-width: $L) { @content; }
+  }
+}
+
+
+

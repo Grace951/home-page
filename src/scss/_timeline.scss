@@ -1,0 +1,444 @@
+// @import "bourbon/bourbon"; // http://bourbon.io/
+
+/* --------------------------------
+
+Primary style
+
+-------------------------------- */
+
+html * {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+/* --------------------------------
+
+Modules - reusable parts of our design
+
+-------------------------------- */
+#a2{
+	background-color: #e0e0e0;
+	margin-bottom: -45px;
+	.cd-container { /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
+		font: {
+			size: 100%;
+			family: $primary-font; // variables inside partials > _variables.scss
+		}
+		a {
+			color: $link;
+			text-decoration: none;
+			font-family: $secondary-font;
+		}
+		width: 90%;
+		margin: 0 auto;
+
+		&::after { /* clearfix */
+			content: '';
+			display: table;
+			clear: both;
+		}
+		@include MQ(S) {
+			width: 100%;
+		}	
+	}
+	#cd-container{
+		max-width: $L; // breakpoints inside partials > _layout.scss
+	}
+}
+
+/* --------------------------------
+
+Main components
+
+-------------------------------- */
+
+
+#cd-timeline {
+	p{
+		font-family: 'Ubuntu', "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
+		font-size: 14px;
+		line-height: 26px;
+	}
+	max-width: 880px;
+	position: relative;
+	padding: 2em 0;
+	margin: {
+		top: 2em;
+		bottom: 2em;
+	}
+
+	&::before {
+		/* this is the vertical line */
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 18px;
+		height: 100%;
+		width: 4px;
+		background: darken($timeline_bg, 5%);
+		@include MQ(XS) {
+			display: none;
+		}
+	}
+
+	@include MQ(L) {
+		margin: {
+			top: 3em;
+			bottom: 3em;
+		}
+
+		&::before {
+			left: 50%;
+			margin-left: -2px;
+		}
+	}
+}
+
+.cd-timeline-block {
+  h2{
+    font-family: 'Merriweather', serif;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+    padding-left: 30px;
+  }
+	position: relative;
+	width: 100%;
+	margin: 2em 0;
+	h3{
+		font-weight: bold;
+		color: black;
+		line-height: 2.2;
+		font-size: 20px;
+	}
+	ul.background {
+		padding-left: 40px;
+		padding-top: 20px;
+		font-family: Open Sans,sans-serif,Arial,文泉驛正黑,WenQuanYi Zen Hei,儷黑 Pro,LiHei Pro,微軟正黑體,Microsoft JhengHei,標楷體,DFKai-SB,sans-serif;
+		li{
+			padding-left: 0px;
+			font-size: 14px;
+			line-height: 2.2;
+			position: relative;
+			color: black;
+			a{
+				color:black;
+			}
+		}
+	}
+	ul.background li:after{
+	    content: "\f107";
+	    position: absolute;
+	    color: black;
+	    left: -20px;
+	    top: 0px;
+	    font-size: 15px;
+	    font-family: FontAwesome
+	  }
+	&:after{
+		content: "";
+		display: block;
+		clear: both;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+
+	@include MQ(L) {
+		margin: 7em 0;
+
+		&:first-child {
+			margin-top: 0;
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+.cd-timeline-block2{
+	@include MQ(L) {
+		margin: -240px 0 0 0;
+	}
+}
+.cd-timeline-block3{
+	@include MQ(L) {
+		margin: -160px 0 0 0;
+	}
+}
+.cd-timeline-block4{
+	@include MQ(L) {
+		margin: -230px 0 0 0;
+	}
+}
+.cd-timeline-block5{
+	@include MQ(L) {
+		margin: -120px 0 0 0;
+	}
+}
+.cd-timeline-block6{
+	@include MQ(L) {
+		margin: -388px 0 0 0;
+	}
+}
+.cd-timeline-block7{
+	@include MQ(L) {
+		margin: 30px 0 0 0;
+	}
+}
+.cd-timeline-block8{
+	@include MQ(L) {
+		margin: -450px 0 0 0;
+	}
+}
+.cd-timeline-img {
+	position: absolute;
+	top: 23px;
+	left: 0;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	//box-shadow: 0 0 0 4px $color-3, inset 0 2px 0 rgba(#000, .08), 0 3px 0 4px rgba(#000, .05) ;
+
+	&.cd-blue {
+		background: $color-1;
+	}
+
+  &.cd-lightblue {
+		background: lighten($color-1,20%);
+	}
+
+	&.cd-red {
+		background: $color-2;
+	}
+
+	&.cd-orange {
+		background: $color-6;
+	}
+
+  &.cd-brown{
+  	background: $color-7;
+  }
+
+	@include MQ(L) {
+		left: 50%;
+		margin-left: -15px;
+
+		/* Force Hardware Acceleration in WebKit */
+		-webkit-transform: translateZ(0);
+		-webkit-backface-visibility: hidden;
+
+		.cssanimations &.is-hidden {
+			visibility: hidden;
+		}
+
+		.cssanimations &.bounce-in {
+			visibility: visible;
+		}
+	}
+	@include respond-to(xs) {
+		top: 25px;
+		margin-left: 4px;
+	}
+	@include MQ(XS) {
+		display: none;
+	}
+
+}
+
+@include keyframes(cd-bounce-1) {
+	0% {
+		opacity: 0;
+	}
+
+	60% {
+		opacity: 1;
+	}
+
+	100% {
+	}
+}
+
+.cd-timeline-content {
+	max-width: 550px;
+	position: relative;
+	margin-left: 60px;
+	background: $color-3;
+	@include border-radius(8px);
+	padding: 2em;
+	box-shadow: 2px 2px 5px rgba(100,100,100,.5);
+	.media p{
+		padding: 10pxl
+	}
+	h2 {
+		color: $color-1;
+	}
+
+	.cd-read-more, .cd-date {
+		display: inline-block;
+	}
+
+	p {
+		margin: 1em 0;
+	}
+
+	.cd-read-more {
+		float: right;
+		padding: .8em 1em;
+		background: $link;
+		color: $color-3;
+		@include border-radius;
+
+		.no-touch &:hover {
+			background-color: lighten($link, 5%);
+		}
+	}
+
+	.cd-date {
+		margin: -50px auto 0 auto;
+		display: block;
+		padding: .8em 0;
+		opacity: .7;
+	}
+
+
+	&::before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 26px;
+		right: 100%;
+		height: 0;
+		width: 0;
+		border: 14px solid transparent;
+		border-right: 14px solid $color-3;
+		@include MQ(XS) {
+			display: none;
+		}
+	}
+	@include MQ(L) {
+		margin-left: 0;
+		padding: 2em;
+		width: 45%;
+
+		&::before {
+			top: 24px;
+			left: 100%;
+			border-color: transparent;
+			border-left-color: $color-3;
+		}
+
+		.cd-read-more {
+			float: left;
+		}
+
+		.cd-timeline-block:nth-child(even) & {
+			float: right;
+
+			&::before {
+				top: 24px;
+				left: auto;
+				right: 100%;
+				border-color: transparent;
+				border-right-color: $color-3;
+			}
+
+			.cd-read-more {
+				float: right;
+			}
+
+			.cd-date {
+				position: absolute;
+				width: 100%;
+				left: -26px;
+				top: -36px;
+				float: none;
+				text-align: left;
+			}
+		}
+		.cd-date {
+			position: absolute;
+			width: 100%;
+			left: 50%;
+			top: 6px;
+			float: none;
+			text-align: center;
+			@include font-size(32px);
+		}
+
+		.cssanimations &.is-hidden {
+			visibility: hidden;
+		}
+
+		.cssanimations &.bounce-in {
+			visibility: visible;
+		}
+	}
+	@include MQ(S) {
+		.cd-date {
+			position: absolute;
+			top :-35px;
+			margin: 0px;
+			font-size: 16px;
+		}
+		padding: 1em;
+	}
+
+	@include MQ(XS) {
+		margin-left: 0px;
+		.cd-date {
+			position: absolute;
+			top :-35px;
+			margin: 0px;
+			font-size: 16px;
+		}
+	}
+}
+
+@include MQ(L) {
+	/* inverse bounce effect on even content blocks */
+	// .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {
+	// 	@include animation(cd-bounce-2-inverse .6s);
+	// }
+}
+
+@include keyframes(cd-bounce-2) {
+	0% {
+		opacity: 0;
+		// @include transform(translateX(-100px));
+	}
+
+	60% {
+		opacity: 1;
+		// @include transform(translateX(20px));
+	}
+
+	100% {
+		// @include transform(translateX(0));
+	}
+}
+
+@include keyframes(cd-bounce-2-inverse) {
+	0% {
+		opacity: 0;
+		// @include transform(translateX(100px));
+	}
+
+	60% {
+		opacity: 1;
+		// @include transform(translateX(-20px));
+	}
+
+	100% {
+		// @include transform(translateX(0));
+	}
+}
+

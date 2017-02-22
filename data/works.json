@@ -1,0 +1,989 @@
+{
+  "mywork": {
+    "work": [
+      {
+        "index": "0",
+        "title": "廣告練習| Avent 奶瓶",
+        "desc": "本廣告以小朋友在奶瓶中游泳為意象，象徵小朋友使用avent奶瓶就像在媽咪肚子裡游泳一般自然。 以水中漂浮的奶瓶強調其順暢流線型，以彩色立體字呼應LOGO的彩色文字。",
+        "img": "images/portfolio/full/poster1.jpg"
+      },
+      {
+        "index": "1",
+        "title": "廣告練習| iPhone6",
+        "desc": "背景特別設計用以強調 iphone 6 螢慕的鮮豔色彩。以弧型光芒及iphnoe的側視圖製造空間感，使觀看者彷彿親眼所見。",
+        "img": "images/portfolio/full/poster2.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/poster6.jpg",
+            "index": "7"
+          }
+        }
+      },
+      {
+        "index": "2",
+        "title": "廣告練習| 萬中選一",
+        "desc": "Vera Wang 的禮服以難預約聞名 ，因此想要向消費者傳達等待是值得的。沙漏代表時間流逝，千萬張設計稿經沙漏篩選出一件美麗的禮服一表達 Vera Wang 的禮服萬中選一，新娘的等待是值得的。",
+        "img": "images/portfolio/full/poster3.jpg"
+      },
+      {
+        "index": "3",
+        "title": "PS練習| Face Off",
+        "desc": "此作品使用了\"How to cheat in photoshop CS6\"一書中的原始圖片， 運用photoshop中修圖的技巧為女主角化妝成美女。",
+        "img": "images/portfolio/full/photo1.jpg"
+      },
+      {
+        "index": "4",
+        "title": "PS練習| 水彩效果練習",
+        "desc": "將自己在碧潭照的相片用 photoshop 改成水彩效果，運用了photoshop的濾鏡、色彩模色及遮色片功能。",
+        "img": "images/portfolio/full/photo2.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/photo3.jpg",
+            "index": "5"
+          }
+        }
+      },
+      {
+        "index": "5",
+        "title": "PS練習| 油畫效果練習",
+        "desc": "將自己在碧潭照的相片用 photoshop 改成油畫效果，運用了photoshop的藝術家步驟筆刷工具、濾鏡、 色彩模色及遮色片功能。",
+        "img": "images/portfolio/full/photo3.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/photo2.jpg",
+            "index": "4"
+          }
+        }
+      },
+      {
+        "index": "6",
+        "title": "PS練習| 克蘭詩廣告",
+        "desc": "本作品以以葉子包覆保養品，象徵克蘭詩的草本保養概念。綠色背景營造大自然意象，潑濺的水呼應其保濕功能。",
+        "img": "images/portfolio/full/poster5.jpg"
+      },
+      {
+        "index": "7",
+        "title": "廣告練習| iPhone6",
+        "desc": "背景特別設計，用以強調 iphone 6 金色質感，以弧型光芒及蘋果Logo曲度柔化 iphone 6 的剛硬感。",
+        "img": "images/portfolio/full/poster6.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/poster2.jpg",
+            "index": "1"
+          }
+        }
+      },
+      {
+        "index": "8",
+        "title": "廣告練習| 生活五峰",
+        "desc": "這是為貓頭鷹親子教育協會所繪製的活動DM海報，本作品以繽紛色彩的小朋友插圖及高對比的標題字， 吸引觀看者注意。設計力求活動資訊一目了然。",
+        "img": "images/portfolio/full/poster7.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/web1.jpg",
+            "index": "41"
+          }
+        }
+      },
+      {
+        "index": "9",
+        "title": "雜誌排版練習| 滋味",
+        "desc": "這一系列的雜誌排版練習想以不同風格表達同一內容，本作品 以大量的照片及夠大的標題營造豐富多樣感，引發讀者的食欲。",
+        "img": "images/portfolio/full/food4.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/food1.jpg",
+              "index": "11"
+            },
+            {
+              "src": "images/portfolio/small/food2.jpg",
+              "index": "16"
+            },
+            {
+              "src": "images/portfolio/small/food3.jpg",
+              "index": "15"
+            },
+            {
+              "src": "images/portfolio/small/food4.jpg",
+              "index": "9"
+            },
+            {
+              "src": "images/portfolio/small/food5.jpg",
+              "index": "17"
+            }
+          ]
+        }
+      },
+      {
+        "index": "10",
+        "title": "廣告練習| Nike",
+        "desc": "本作品使用 Illustrator 製造出如針織排汗衫的背景，配合明亮水藍色，給人清涼舒適排汗感，襯托鞋子輕巧透氣感。 並以飛濺的液體創造輕巧動感，比諭鞋子如流體般貼身動感。",
+        "img": "images/portfolio/full/poster4.jpg"
+      },
+      {
+        "index": "11",
+        "title": "雜誌排版練習| 滋味",
+        "desc": "這一系列的雜誌排版練習想以不同風格表達同一內容，本作品以綠橘清爽風呈現， 並間接以大幅筷子圖像為主視覺引誘讀者的食欲。",
+        "img": "images/portfolio/full/food1.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/food2.jpg",
+              "index": "16"
+            },
+            {
+              "src": "images/portfolio/small/food3.jpg",
+              "index": "15"
+            },
+            {
+              "src": "images/portfolio/small/food4.jpg",
+              "index": "9"
+            },
+            {
+              "src": "images/portfolio/small/food5.jpg",
+              "index": "17"
+            }
+          ]
+        }
+      },
+      {
+        "index": "12",
+        "title": "Logo| 方向",
+        "desc": "右方Logo設計理念為:\"書本給人方向\"。 因此以由書本形狀組成方向指標牌，象徵閱讀給我們人生的方向。 左方Logo以帆船的帆桅為風向的意象，象徵藉由書本得到動力來源。",
+        "img": "images/portfolio/full/branding2.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/branding5.jpg",
+            "index": "26"
+          }
+        }
+      },
+      {
+        "index": "13",
+        "title": "Logo| Shen Bookstore",
+        "desc": "這是一系列為書店LOGO設計練習，由於書店主人喜愛大自然，希望LOGO中有植物的元素， 且樹苗象徵生命力，因此右圖以樹苗為設計發想捷和書本，象徵書本帶給人生命力。左圖象徵赤子之心。",
+        "img": "images/portfolio/full/branding4.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/branding3.jpg",
+            "index": "14"
+          }
+        }
+      },
+      {
+        "index": "14",
+        "title": "Logo| Shen Bookstore",
+        "desc": "這是一系列為書店LOGO設計練習，由於書店主人喜愛大自然，希望LOGO中有植物的元素， 且樹苗象徵生命力，因此以樹苗為設計發想結合書本，象徵書本帶給人生命力。",
+        "img": "images/portfolio/full/branding3.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/branding4.jpg",
+            "index": "13"
+          }
+        }
+      },
+      {
+        "index": "15",
+        "title": "雜誌排版練習| 滋味",
+        "desc": "這一系列的雜誌排版練習想以不同風格表達同一內容，本作品 以活潑插圖及可愛文字呈現動感。",
+        "img": "images/portfolio/full/food3.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/food1.jpg",
+              "index": "11"
+            },
+            {
+              "src": "images/portfolio/small/food2.jpg",
+              "index": "16"
+            },
+            {
+              "src": "images/portfolio/small/food4.jpg",
+              "index": "9"
+            },
+            {
+              "src": "images/portfolio/small/food5.jpg",
+              "index": "17"
+            }
+          ]
+        }
+      },
+      {
+        "index": "16",
+        "title": "雜誌排版練習| 滋味",
+        "desc": "這一系列的雜誌排版練習想以不同風格表達同一內容，本作品 間接以日本茶道呈現日本人細膩精神，並以小張壽司圖引誘讀者的食欲。",
+        "img": "images/portfolio/full/food2.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/food1.jpg",
+              "index": "11"
+            },
+            {
+              "src": "images/portfolio/small/food3.jpg",
+              "index": "15"
+            },
+            {
+              "src": "images/portfolio/small/food4.jpg",
+              "index": "9"
+            },
+            {
+              "src": "images/portfolio/small/food5.jpg",
+              "index": "17"
+            }
+          ]
+        }
+      },
+      {
+        "index": "17",
+        "title": "雜誌排版練習| 滋味",
+        "desc": "這一系列的雜誌排版練習想以不同風格表達同一內容，本作品以綠橘清爽風呈現， 並間接以大幅筷子圖像為主視覺引誘讀者的食欲。",
+        "img": "images/portfolio/full/food5.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/food1.jpg",
+              "index": "11"
+            },
+            {
+              "src": "images/portfolio/small/food2.jpg",
+              "index": "16"
+            },
+            {
+              "src": "images/portfolio/small/food3.jpg",
+              "index": "15"
+            },
+            {
+              "src": "images/portfolio/small/food4.jpg",
+              "index": "9"
+            }
+          ]
+        }
+      },
+      {
+        "index": "18",
+        "title": "DM練習| 木擊者",
+        "desc": "以木琴同色系為主調，擊琴的圖片用十六分隔法切割，變化的圖片裁切增加律動感。",
+        "img": "images/portfolio/full/DM1.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/DM1-1.jpg"
+            },
+            {
+              "src": "images/portfolio/small/DM1-2.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "index": "19",
+        "title": "DM練習| Aveda",
+        "desc": "這是一份三摺兩頁的DM設計練習。封面以草綠色嫩葉呈現 Aveda 的環保自然形象， 對比色的橘色標題字，呈現清新亮眼的效果。封底則以紅色營造節慶的感覺。",
+        "img": "images/portfolio/full/DM3.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/DM4.jpg",
+            "index": "20"
+          }
+        }
+      },
+      {
+        "index": "20",
+        "title": "DM練習| Aveda",
+        "desc": "這是一份三摺兩頁的DM設計練習的內頁，主要訴求為資訊一目了然。並以刷淡LOGO為背景， 重覆出現於每個商品背後，營造品牌一致感。",
+        "img": "images/portfolio/full/DM4.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/DM3.jpg",
+            "index": "19"
+          }
+        }
+      },
+      {
+        "index": "21",
+        "title": "DM練習| 仲向",
+        "desc": "建築展覽DM練習，以\"仲向\"標準字的造型與色彩為發想編排圖片。以圖片的裁切展現空間感。",
+        "img": "images/portfolio/full/DM2.jpg"
+      },
+      {
+        "index": "22",
+        "title": "Web Banner| 奶娃",
+        "desc": "這一系列的 Web Banner 是為貓頭鷹親子教育協會所繪製，本作品以粉色系營造柔和舒適感， 插圖並以對比背景的綠色衣服來吸引觀看者注意奶娃。",
+        "img": "images/portfolio/full/web3.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/web1.jpg",
+              "index": "41"
+            },
+            {
+              "src": "images/portfolio/small/web2.jpg",
+              "index": "42"
+            },
+            {
+              "src": "images/portfolio/small/web4.jpg",
+              "index": "24"
+            },
+            {
+              "src": "images/portfolio/small/web5.jpg",
+              "index": "23"
+            }
+          ]
+        }
+      },
+      {
+        "index": "23",
+        "title": "Web Banner| 青春",
+        "desc": "這一系列的 Web Banner 是為貓頭鷹親子教育協會所繪製，本作品以晴空 、高飽和度的色彩及年輕人的運動剪影營造青春氣氛。",
+        "img": "images/portfolio/full/web5.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/web1.jpg",
+              "index": "41"
+            },
+            {
+              "src": "images/portfolio/small/web2.jpg",
+              "index": "42"
+            },
+            {
+              "src": "images/portfolio/small/web4.jpg",
+              "index": "24"
+            },
+            {
+              "src": "images/portfolio/small/web3.jpg",
+              "index": "22"
+            }
+          ]
+        }
+      },
+      {
+        "index": "24",
+        "title": "Web Banner| 說故事",
+        "desc": "這一系列的 Web Banner 是為貓頭鷹親子教育協會所繪製，本作品以可愛小人頭圍著老師聽故事為主視覺。",
+        "img": "images/portfolio/full/web4.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/web1.jpg",
+              "index": "41"
+            },
+            {
+              "src": "images/portfolio/small/web2.jpg",
+              "index": "42"
+            },
+            {
+              "src": "images/portfolio/small/web5.jpg",
+              "index": "23"
+            },
+            {
+              "src": "images/portfolio/small/web3.jpg",
+              "index": "22"
+            }
+          ]
+        }
+      },
+      {
+        "index": "25",
+        "title": "廣告練習| 美好人生",
+        "desc": "背景特別設計以襯托香水瓶的晶透高雅質感，整體的柔和半透明色調營造愉悅氣氛。",
+        "img": "images/portfolio/full/poster8.jpg"
+      },
+      {
+        "index": "26",
+        "title": "VI告練習| 方向",
+        "desc": "此VI設計理念為:\"書本給人方向\"。 因此以由書本形狀組成方向指標牌，象徵閱讀給我們人生的方向。",
+        "img": "images/portfolio/full/branding5.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/branding2.jpg",
+            "index": "12"
+          }
+        }
+      },
+      {
+        "index": "27",
+        "title": "eDM練習| 洗衣機",
+        "desc": "本eDM以居家的清爽色調背景營造清潔乾爽感，排版力求簡單明瞭，呈現資訊重要性的階層。",
+        "img": "images/portfolio/full/edm1.jpg"
+      },
+      {
+        "index": "28",
+        "title": "T-shirt設計| 閱向未來",
+        "desc": "這是為貓頭鷹親子教育協會所設計的T-shirt，設計理念如下:\"閱讀給我們人生的方向，象徵站 在人生十字路口的小朋友，藉由貓頭鷹親子教育協會獲得人生 未來的方向。",
+        "img": "images/portfolio/full/branding12.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/branding13.jpg",
+            "index": "29"
+          }
+        }
+      },
+      {
+        "index": "29",
+        "title": "T-shirt設計| 閱向未來",
+        "desc": "這是為貓頭鷹親子教育協會所設計的T-shirt，設計理念如下:\"閱讀給我們人生的方向，象徵站 在人生十字路口的小朋友，藉由貓頭鷹親子教育協會獲得人生 未來的方向。",
+        "img": "images/portfolio/full/branding13.jpg",
+        "relative": {
+          "img": {
+            "src": "images/portfolio/small/branding12.jpg",
+            "index": "28"
+          }
+        }
+      },
+      {
+        "index": "30",
+        "title": "T-shirt設計| Let's Read",
+        "desc": "這是為貓頭鷹親子教育協會所設計的T-shirt，用卡通風呼籲大家一起來閱讀，配色構圖力求活潑亮麗。",
+        "img": "images/portfolio/full/branding14.jpg"
+      },
+      {
+        "index": "31",
+        "title": "插畫練習| 小天使",
+        "desc": "二頭身的插畫練習。",
+        "img": "images/portfolio/full/illustration1.jpg"
+      },
+      {
+        "index": "32",
+        "title": "插畫練習| 聖誕節",
+        "desc": "聖誕節插畫練習。",
+        "img": "images/portfolio/full/illustration2.jpg",
+        "relative": {
+          "img": { "src": "images/portfolio/small/illustration2-1.jpg" }
+        }
+      },
+      {
+        "index": "33",
+        "title": "插畫練習| 海賊",
+        "desc": "改為三頭身的Q版海賊。",
+        "img": "images/portfolio/full/illustration3.jpg"
+      },
+      {
+        "index": "34",
+        "title": "插畫練習| 愛心蜜蜂",
+        "desc": "以條紋的愛心為身體，對比色的配色，生動的姿勢營造活潑感。",
+        "img": "images/portfolio/full/illustration4.jpg"
+      },
+      {
+        "index": "35",
+        "title": "插畫練習| 塗鴉",
+        "desc": "鮮豔的前色配上留白的背景，運用了 illustrator 的漸層、漸變、3D、旋轉及路徑管理員功能。",
+        "img": "images/portfolio/full/illustration5.jpg"
+      },
+      {
+        "index": "36",
+        "title": "插畫練習| 小小人兒",
+        "desc": "Painter的筆觸練習。",
+        "img": "images/portfolio/full/illustration6.jpg"
+      },
+      {
+        "index": "37",
+        "title": "插畫練習| 小人兒",
+        "desc": "各年齡層的小人兒，photshop + illustrator的結合。",
+        "img": "images/portfolio/full/illustration7.jpg"
+      },
+      {
+        "index": "38",
+        "title": "插畫練習| 機器娃娃",
+        "desc": "三頭身的機器娃娃，運用了 Illustrator 的漸層色票及繪圖樣式。",
+        "img": "images/portfolio/full/illustration8.jpg"
+      },
+      {
+        "index": "39",
+        "title": "eDM練習| 吸塵器",
+        "desc": "本eDM以居家的清爽色調背景營造清潔乾爽感，排版力求簡單明瞭，呈現資訊重要性的階層。",
+        "img": "images/portfolio/full/edm2.jpg"
+      },
+      {
+        "index": "40",
+        "title": "插畫練習| 花",
+        "desc": "配色鮮艷，使用 Illustrator 繪製的花，使用了扭曲與變形效果、3D效果、彎曲效果及圖樣筆刷。",
+        "img": "images/portfolio/full/illustration9.jpg"
+      },
+      {
+        "index": "41",
+        "title": "Web Banner| 生活五峰",
+        "desc": "這一系列的 Web Banner 是為貓頭鷹親子教育協會所繪製，本作品以繽紛色彩的小朋友插圖及高對比的標題字， 吸引觀看者注意。設計力求活動資訊一目了然。",
+        "img": "images/portfolio/full/web1.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/web4.jpg",
+              "index": "24"
+            },
+            {
+              "src": "images/portfolio/small/web2.jpg",
+              "index": "42"
+            },
+            {
+              "src": "images/portfolio/small/web5.jpg",
+              "index": "23"
+            },
+            {
+              "src": "images/portfolio/small/web3.jpg",
+              "index": "22"
+            }
+          ]
+        }
+      },
+      {
+        "index": "42",
+        "title": "Web Banner| 少年之心",
+        "desc": "這一系列的 Web Banner 是為貓頭鷹親子教育協會所繪製，本作品以粉色系營造柔和舒適感， 特別用金鑰的影像呼籲關心少年的內心世界。",
+        "img": "images/portfolio/full/web2.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/web4.jpg",
+              "index": "41"
+            },
+            {
+              "src": "images/portfolio/small/web1.jpg",
+              "index": "42"
+            },
+            {
+              "src": "images/portfolio/small/web5.jpg",
+              "index": "23"
+            },
+            {
+              "src": "images/portfolio/small/web3.jpg",
+              "index": "22"
+            }
+          ]
+        }
+      },
+      {
+        "index": "43",
+        "title": "插畫練習| 愛哭鬼",
+        "desc": "鬼鬼系列，希望可以畫出能拭去傷心人淚水的畫，傳達喜樂!!愛哭鬼 - 躺臥在祢懷裡，今天讓我當個愛哭鬼，盡情的哭",
+        "img": "images/portfolio/full/illustration11.png",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration12.png",
+              "index": "44"
+            },
+            {
+              "src": "images/portfolio/small/illustration13.png",
+              "index": "45"
+            },
+            {
+              "src": "images/portfolio/small/illustration14.png",
+              "index": "46"
+            },
+            {
+              "src": "images/portfolio/small/illustration15.png",
+              "index": "47"
+            },
+            {
+              "src": "images/portfolio/small/illustration16.png",
+              "index": "48"
+            }
+          ]
+        }
+      },
+      {
+        "index": "44",
+        "title": "插畫練習| 頑皮鬼",
+        "desc": "鬼鬼系列，希望可以畫出能拭去傷心人淚水的畫，傳達喜樂!!頑皮鬼 - 偶爾也讓心中的頑皮鬼出來搗蛋一下",
+        "img": "images/portfolio/full/illustration12.png",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration11.png",
+              "index": "43"
+            },
+            {
+              "src": "images/portfolio/small/illustration13.png",
+              "index": "45"
+            },
+            {
+              "src": "images/portfolio/small/illustration14.png",
+              "index": "46"
+            },
+            {
+              "src": "images/portfolio/small/illustration15.png",
+              "index": "47"
+            },
+            {
+              "src": "images/portfolio/small/illustration16.png",
+              "index": "48"
+            }
+          ]
+        }
+      },
+      {
+        "index": "45",
+        "title": "插畫練習| 熱情鬼",
+        "desc": "鬼鬼系列，希望可以畫出能拭去傷心人淚水的畫，傳達喜樂!!熱情鬼 - 當一個溫柔的熱情鬼!!",
+        "img": "images/portfolio/full/illustration13.png",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration11.png",
+              "index": "43"
+            },
+            {
+              "src": "images/portfolio/small/illustration12.png",
+              "index": "44"
+            },
+            {
+              "src": "images/portfolio/small/illustration14.png",
+              "index": "46"
+            },
+            {
+              "src": "images/portfolio/small/illustration15.png",
+              "index": "47"
+            },
+            {
+              "src": "images/portfolio/small/illustration16.png",
+              "index": "48"
+            }
+          ]
+        }
+      },
+      {
+        "index": "46",
+        "title": "插畫練習| 開心鬼",
+        "desc": "鬼鬼系列，希望可以畫出能拭去傷心人淚水的畫，傳達喜樂!!開心鬼 - 要頭髮快掉光光牙齒快掉光光也要開開心心的!!",
+        "img": "images/portfolio/full/illustration14.png",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration11.png",
+              "index": "43"
+            },
+            {
+              "src": "images/portfolio/small/illustration12.png",
+              "index": "44"
+            },
+            {
+              "src": "images/portfolio/small/illustration13.png",
+              "index": "45"
+            },
+            {
+              "src": "images/portfolio/small/illustration15.png",
+              "index": "47"
+            },
+            {
+              "src": "images/portfolio/small/illustration16.png",
+              "index": "48"
+            }
+          ]
+        }
+      },
+      {
+        "index": "47",
+        "title": "插畫練習| 韌性鬼",
+        "desc": "鬼鬼系列，希望可以畫出能拭去傷心人淚水的畫，傳達喜樂!! 韌性鬼 - 再倒楣也要勇敢面對每一天!!",
+        "img": "images/portfolio/full/illustration15.png",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration11.png",
+              "index": "43"
+            },
+            {
+              "src": "images/portfolio/small/illustration12.png",
+              "index": "44"
+            },
+            {
+              "src": "images/portfolio/small/illustration13.png",
+              "index": "45"
+            },
+            {
+              "src": "images/portfolio/small/illustration14.png",
+              "index": "46"
+            },
+            {
+              "src": "images/portfolio/small/illustration16.png",
+              "index": "48"
+            }
+          ]
+        }
+      },
+      {
+        "index": "48",
+        "title": "插畫練習| 滿足鬼",
+        "desc": "鬼鬼系列，希望可以畫出能拭去傷心人淚水的畫，傳達喜樂!! 滿足鬼 - 要像滿足鬼一樣，天天滿足的感謝上帝!!",
+        "img": "images/portfolio/full/illustration16.png",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration11.png",
+              "index": "43"
+            },
+            {
+              "src": "images/portfolio/small/illustration12.png",
+              "index": "44"
+            },
+            {
+              "src": "images/portfolio/small/illustration13.png",
+              "index": "45"
+            },
+            {
+              "src": "images/portfolio/small/illustration14.png",
+              "index": "46"
+            },
+            {
+              "src": "images/portfolio/small/illustration15.png",
+              "index": "47"
+            }
+          ]
+        }
+      },
+      {
+        "index": "49",
+        "title": "夏令營學生手冊封面",
+        "desc": "以清爽的白綠色為主軸，標題搭配一點對比色紅色，畫龍點睛。插圖，標準字皆為自己所繪製設計。希望活潑的版面能讓小朋友愉快地閱讀吸收。",
+        "img": "images/portfolio/full/book1.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/book2.jpg",
+              "index": "50"
+            },
+            {
+              "src": "images/portfolio/small/book3.jpg",
+              "index": "51"
+            },
+            {
+              "src": "images/portfolio/small/book4.jpg",
+              "index": "51"
+            }
+          ]
+        }
+      },
+      {
+        "index": "50",
+        "title": "馬雅各宣教士封面",
+        "desc": "這是夏令營學生手冊第一課的封面。自己繪、設計的插圖，標準字，希望活潑的版面能讓小朋友愉快地閱讀吸收。",
+        "img": "images/portfolio/full/book2.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/book1.jpg",
+              "index": "49"
+            },
+            {
+              "src": "images/portfolio/small/book3.jpg",
+              "index": "51"
+            },
+            {
+              "src": "images/portfolio/small/book4.jpg",
+              "index": "51"
+            }
+          ]
+        }
+      },
+      {
+        "index": "51",
+        "title": "馬諧博士封面",
+        "desc": "這是夏令營學生手冊第二課的封面。自己繪、設計的插圖，標準字，希望活潑的版面能讓小朋友愉快地閱讀吸收。",
+        "img": "images/portfolio/full/book3.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/book1.jpg",
+              "index": "49"
+            },
+            {
+              "src": "images/portfolio/small/book2.jpg",
+              "index": "50"
+            },
+            {
+              "src": "images/portfolio/small/book4.jpg",
+              "index": "52"
+            }
+          ]
+        }
+      },
+      {
+        "index": "52",
+        "title": "孫裡連宣教士封面",
+        "desc": "這是夏令營學生手冊第三課的封面。自己繪、設計的插圖，標準字，希望活潑的版面能讓小朋友愉快地閱讀吸收。",
+        "img": "images/portfolio/full/book4.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/book1.jpg",
+              "index": "49"
+            },
+            {
+              "src": "images/portfolio/small/book2.jpg",
+              "index": "50"
+            },
+            {
+              "src": "images/portfolio/small/book3.jpg",
+              "index": "51"
+            }
+          ]
+        }
+      },
+      {
+        "index": "53",
+        "title": "夏令營名牌設計",
+        "desc": "這是給夏令營小朋友設計的名牌，共有六組加一款老師的名牌。",
+        "img": "images/portfolio/full/name0.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/name1.jpg"
+            },
+            {
+              "src": "images/portfolio/small/name2.jpg"
+            },
+            {
+              "src": "images/portfolio/small/name3.jpg"
+            },
+            {
+              "src": "images/portfolio/small/name4.jpg"
+            },
+            {
+              "src": "images/portfolio/small/name5.jpg"
+            },
+            {
+              "src": "images/portfolio/small/name6.jpg"
+            },
+            {
+              "src": "images/portfolio/small/name7.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "index": "54",
+        "title": "吉祥物設計練習| 陽光小雞",
+        "desc": "這是練習給憂鬱症防治機構的吉祥物-陽光小雞。這是小雞正面。",
+        "img": "images/portfolio/full/illustration17.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration18.jpg",
+              "index": "55"
+            },
+            {
+              "src": "images/portfolio/small/illustration19.jpg",
+              "index": "56"
+            },
+            {
+              "src": "images/portfolio/small/illustration20.jpg",
+              "index": "57"
+            },
+            {
+              "src": "images/portfolio/small/illustration21.jpg",
+              "index": "58"
+            }
+          ]
+        }
+      },
+      {
+        "index": "55",
+        "title": "吉祥物設計練習| 陽光小雞",
+        "desc": "這是練習給憂鬱症防治機構的吉祥物-陽光小雞。這幅主題是一起走。",
+        "img": "images/portfolio/full/illustration18.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration17.jpg",
+              "index": "54"
+            },
+            {
+              "src": "images/portfolio/small/illustration19.jpg",
+              "index": "56"
+            },
+            {
+              "src": "images/portfolio/small/illustration20.jpg",
+              "index": "57"
+            },
+            {
+              "src": "images/portfolio/small/illustration21.jpg",
+              "index": "58"
+            }
+          ]
+        }
+      },
+      {
+        "index": "56",
+        "title": "吉祥物設計練習| 陽光小雞",
+        "desc": "這是練習給憂鬱症防治機構的吉祥物-陽光小雞。這幅主題是陪伴。",
+        "img": "images/portfolio/full/illustration19.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration17.jpg",
+              "index": "54"
+            },
+            {
+              "src": "images/portfolio/small/illustration18.jpg",
+              "index": "55"
+            },
+            {
+              "src": "images/portfolio/small/illustration20.jpg",
+              "index": "57"
+            },
+            {
+              "src": "images/portfolio/small/illustration21.jpg",
+              "index": "58"
+            }
+          ]
+        }
+      },
+      {
+        "index": "57",
+        "title": "吉祥物設計練習| 陽光小雞",
+        "desc": "這是練習給憂鬱症防治機構的吉祥物-陽光小雞。這是小雞側面。",
+        "img": "images/portfolio/full/illustration20.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration17.jpg",
+              "index": "54"
+            },
+            {
+              "src": "images/portfolio/small/illustration18.jpg",
+              "index": "55"
+            },
+            {
+              "src": "images/portfolio/small/illustration19.jpg",
+              "index": "56"
+            },
+            {
+              "src": "images/portfolio/small/illustration21.jpg",
+              "index": "58"
+            }
+          ]
+        }
+      },
+      {
+        "index": "58",
+        "title": "吉祥物設計練習| 陽光小雞",
+        "desc": "這是練習給憂鬱症防治機構的吉祥物-陽光小雞。這是小雞四分之三側面。",
+        "img": "images/portfolio/full/illustration21.jpg",
+        "relative": {
+          "img": [
+            {
+              "src": "images/portfolio/small/illustration17.jpg",
+              "index": "54"
+
+            },
+            {
+              "src": "images/portfolio/small/illustration19.jpg",
+              "index": "56"
+            },
+            {
+              "src": "images/portfolio/small/illustration18.jpg",
+              "index": "55"
+            },
+            {
+              "src": "images/portfolio/small/illustration20.jpg",
+              "index": "57"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+@import 'compass';
+
+#logo_small {
+    display: none;
+    float: none;
+}
+
+#grace_header_bg {
+    background-color: #fff;
+    position:fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height:130px;
+    z-index:0;
+    box-shadow:0 0 3px #888888;
+}
+
+#grace_header_h {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    z-index:999;
+}
+
+
+#grace_header_h ol, ul {
+    list-style: none;
+    padding:0px;
+    margin-top:0px;
+}
+
+#grace_header_h #wrap {
+    margin: 0 auto;
+}
+
+#grace_header_h .inner {
+    margin: 0 auto;
+    max-width: 1440px;
+    padding: 0;
+}
+
+#grace_header_h .relative {
+    position: relative;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+/* HEADER */
+#grace_header_h .logo {
+    @include inline-block-grace(110px);
+    font-size: 0;
+    padding-top:0px;
+    margin:0px;
+    margin-top:0px;
+}
+
+#menu-toggle {
+    display: none;
+    float: right;
+}
+
+/* HEADER > MENU */
+#navigation_grace_small {
+    display: none;
+    float: none;
+}
+
+#main-menu_grace {
+    display: block;
+    float: right;
+    font-size: 0;
+    margin: 0;
+}
+
+#main-menu_grace > li {
+    @include inline-block-grace(140px);
+    padding-left: 20px;
+    margin-top:60px;
+    margin-right:0;
+}
+
+#main-menu_grace > ul > li > a{
+    display: block;  //!!!!!!!!!!!!!!!!!!
+    width: 100%;
+}
+#main-menu_grace > li:hover{
+    background:url(../images/leaf.png);
+    @include background-size(18px, 20px);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+#main-menu_grace > li.parent {
+/*  background-image: url(../images/plus-gray.png);
+    background-size: 7px 7px;
+    background-repeat: no-repeat;
+    background-position: right center;
+*/
+}
+
+#main-menu_grace > li.parent > a {
+    padding-left: 0px;
+}
+
+#main-menu_grace > li > a {
+    color: #000;
+    font-family: 'Ubuntu', sans-serif;
+    font-style:italic;
+    font-size: 20px;
+    line-height: 14px;
+    letter-spacing:3px;
+    padding: 0;
+    text-decoration:none;
+    border-bottom: 3px solid #fff;
+//  text-shadow: 2px 2px 5px #eee;
+
+}
+
+#main-menu_grace > li:hover > a{
+//  color: #000;
+//  border-bottom: 3px solid #F90;
+}
+
+
+
+/* HEADER > MENU > DROPDOWN */
+#main-menu_grace li {
+    position: relative;
+}
+
+#grace_header_h ul.sub-menu_grace { /* level 2 */
+    display: none;
+    left: 0px;
+    top: 18px;
+    padding-top: 0px;
+    position: absolute;
+    width: 150px;
+    z-index: 9999;
+}
+
+#grace_header_h ul.sub-menu_grace ul.sub-menu_grace { /* level 3+ */
+    margin-top: -1px;
+    padding-top: 0;
+    left: 149px;
+    top: 0px;
+}
+
+#grace_header_h ul.sub-menu_grace > li > a {
+    background-color: #333;
+    border: 1px solid #444;
+    border-top: none;
+    color: #bbb;
+    display: block;
+    font-size: 14px;
+    line-height: 15px;
+    padding: 10px 12px;
+    font-weight:600;
+}
+
+#grace_header_h ul.sub-menu_grace > li > a:hover {
+    background-color: #2a2a2a;
+    color: #fff;
+}
+
+#grace_header_h ul.sub-menu_grace > li:first-child {
+    border-top: 3px solid #F90;
+}
+
+#grace_header_h ul.sub-menu_grace ul.sub-menu_grace > li:first-child {
+    border-top: 1px solid #444;
+}
+
+#grace_header_h ul.sub-menu_grace > li:last-child > a {
+    border-radius: 0 0 2px 2px;
+}
+
+#grace_header_h ul.sub-menu_grace > li > a.parent {
+    background-image: url(../images/arrow.png);
+    @include background-size(5px 9px);
+    background-repeat: no-repeat;
+    background-position: 95% center;
+}
+
+#main-menu_grace li > ul.sub-menu_grace {
+    display: block; /* show the submenu */
+  visibility:hidden;
+  opacity:0;
+  transition:visibility 0s linear 0.5s,opacity 0.5s linear;
+}
+
+
+#main-menu_grace li:hover > ul.sub-menu_grace {
+      visibility:visible;
+      opacity:1;
+      transition-delay:0s;
+}
+
+
+.logo{
+    display: block;
+    float: left;
+}
+
+@media all and (max-width: 767px) {
+
+    #grace_header_bg{
+        position: fixed;
+        height:40px;
+        width:100%;
+        top:0;
+        z-index:9998;
+    }
+
+
+    #logo_small{
+        position: fixed;
+        display:block;
+        left:25px;
+        top:0;
+        width:20px;
+        height:40px;
+        z-index:9999;
+    }
+
+    #navigation_grace_small {
+        position: static;
+        display:block;
+        margin-top: 0px;
+
+    }
+
+    #menu-toggle {
+        position: fixed;
+        display:inline;
+        right: 25px;
+        top:10px;
+        z-index:9999;
+    }
+
+    #main-menu_grace {
+        display: none;
+        float: none;
+    }
+
+    #navigation_grace{
+        display: none;
+        float: none;
+    }
+
+    #main-menu_grace_small {
+        position: fixed;
+        background-color: #333;
+        top:40px;
+        width:100%;
+        display: none;
+        z-index:9999;
+        padding:25px;
+    }
+
+    #main-menu_grace_small li {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    #main-menu_grace_small > li {
+        margin-top: -1px;
+    }
+
+    #main-menu_grace_small > li:first-child {
+        margin-top: 0;
+    }
+
+    #main-menu_grace_small > li > a {
+        background-color: #333;
+        border: 1px solid #444;
+        color: #bbb;
+        display: block;
+        font-size: 14px;
+        padding: 12px !important;
+        padding: 0;
+    }
+
+    #main-menu_grace_small li > a:hover {
+        background-color: #444;
+    }
+
+    #main-menu_grace_small > li.parent {
+        background: none !important;
+        padding: 0;
+    }
+
+    #main-menu_grace_small > li:hover > a,
+    #main-menu_grace_small > li.current-menu-item > a {
+        border: 1px solid #444 !important;
+        color: #fff !important;
+    }
+
+    ul.sub-menu_grace_small {
+        border: 1px solid #444 !important;
+        display: block;
+        margin-top: -1px;
+        margin-left: 20px;
+        position: static;
+        padding: 0;
+        width: inherit;
+    }
+
+    ul.sub-menu_grace_small > li:first-child {
+        border-top: 1px solid #444 !important;
+    }
+
+
+
+
+    ul.sub-menu_grace_small > li > a {
+        background-color: #333;
+        border: 1px solid #444;
+        border-top: none;
+        color: #bbb;
+        display: block;
+        font-size: 12px;
+        line-height: 15px;
+        padding: 10px 12px;
+    }
+
+    ul.sub-menu_grace_small > li > a:hover {
+        background-color: #2a2a2a;
+        color: #fff;
+    }
+
+    ul.sub-menu_grace_small > li:first-child {
+        border-top: 3px solid #23dbdb;
+    }
+
+    ul.sub-menu_grace_small ul.sub-menu_grace_small > li:first-child {
+        border-top: 1px solid #444;
+    }
+
+    ul.sub-menu_grace_small > li:last-child > a {
+        border-radius: 0 0 2px 2px;
+    }
+
+    ul.sub-menu_grace_small > li > a.parent {
+        background-image: url(../images/arrow.png);
+        @include background-size(5px 9px);
+        background-repeat: no-repeat;
+        background-position: 95% center;
+    }
+
+    #main-menu_grace li:hover > ul.sub-menu_grace_small {
+        display: block; /* show the submenu */
+    }
+
+}
+
