@@ -11,7 +11,7 @@ $(document).ready(function() {
 	$('#main-menu_grace > li:has(ul.sub-menu_grace_small)').addClass('parent');
 	$('ul.sub-menu_grace_small > li:has(ul.sub-menu_grace_small) > a').addClass('parent');
 
-	$('#menu-toggle').click(function() {
+	$('#menu-toggle_grace').click(function() {
 		$('#main-menu_grace_small').slideToggle(300);
 		return false;
 	});
