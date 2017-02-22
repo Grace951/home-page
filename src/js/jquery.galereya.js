@@ -190,14 +190,14 @@
             cellW = $cells.width();
             cellH = $cells.height();
             colCount = Math.floor((self.width() ) / (cellW + self.options.spacing));
-            console.log((self.width() ), cellW,  self.options.spacing);
+            // console.log((self.width() ), cellW,  self.options.spacing);
             if (colCount < 1) {
                 colCount = 1;
             }
 
             gridW = colCount * cellW + (colCount - 1) * self.options.spacing;
             gridH = Math.ceil($imgs.length / colCount) * cellH;
-console.log(cellW, cellH, colCount, gridW);
+// console.log(cellW, cellH, colCount, gridW);
         };
 
         /**
