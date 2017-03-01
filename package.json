@@ -16,6 +16,13 @@
     "url": "https://github.com/Grace951/home-page/issues"
   },
   "homepage": "https://github.com/Grace951/home-page#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "bourbon": "^4.3.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1"
+  },
   "devDependencies": {
     "browserify": "^14.1.0",
     "del": "^2.2.2",
@@ -32,12 +39,5 @@
     "gulp-watch": "^4.3.11",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
-  },
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "bootstrap-sass": "^3.3.7",
-    "bourbon": "^4.3.2",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.1.1"
   }
 }
