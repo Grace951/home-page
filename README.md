@@ -1,26 +1,6 @@
-# Portfolio Home Page
-* Portfolio Home Page
-* Bootstrap + SASS 
-* RWD (Responsive Web Design)
-* Pinterest Like 
+>## This Project Is Deprecated
 
-# Notes
-* Feel free to contribute and or provide feedback!   
-
-# License
-MIT
-
-## Live Demo 
-Live demo: [`https://grace951.github.io/home-page/index.html`](https://grace951.github.io/home-page/index.html)
-
-# Build locally
-```
-git clone https://github.com/Grace951/home-page.git
-cd home-page
-npm install
-gulp
-```
-
-
-![demo gif](https://github.com/Grace951/home-page/raw/master/screenshot.png)
-
+>##  My New Home Page is Here- Hope Shelter Design
+* Hope Shelter Design is my New Home Page
+* link: [`https://hopeshelter.herokuapp.com/`](https://hopeshelter.herokuapp.com/)
+* Source: [`https://github.com/Grace951/grace951.github.io`](https://github.com/Grace951/grace951.github.io)
